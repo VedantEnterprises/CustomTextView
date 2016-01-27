@@ -1,0 +1,16 @@
+<resources>
+  <style name="Bold" parent="@android:style/TextAppearance">
+    <item name="android:textStyle">bold</item>
+    <item name="android:textSize">30sp</item>
+  </style>
+
+  <style name="Italic" parent="@android:style/TextAppearance">
+    <item name="android:textStyle">italic</item>
+    <item name="android:textSize">30sp</item>
+  </style>
+
+  <style name="Large" parent="@android:style/TextAppearance">
+    <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
+    <item name="android:textSize">30sp</item>
+  </style>
+</resources>

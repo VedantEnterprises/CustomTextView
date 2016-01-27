@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="CustomTextView">
+    <attr name="ct_prefix" format="string" />
+    <attr name="ct_suffix" format="string" />
+    <attr name="ct_prefix_style">
+      <flag name="Bold" value="1"/>
+      <flag name="Italic" value="2"/>
+      <flag name="Large" value="4"/>
+    </attr>
+   </declare-styleable>
+</resources>
